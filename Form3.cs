@@ -1,6 +1,3 @@
-﻿//Lethukuthula Sibiya
-//Ntau Temane
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
