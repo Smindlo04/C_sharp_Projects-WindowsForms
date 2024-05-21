@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace WindowsFormsApp1
+namespace MovieDatabase
 {
     public partial class Form1 : Form
     {
