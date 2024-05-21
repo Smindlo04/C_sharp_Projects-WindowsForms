@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;//Step 1
 
-namespace FilesReading_CSharp
+namespace FilesReading
 {
     public partial class Form1 : Form
     {
