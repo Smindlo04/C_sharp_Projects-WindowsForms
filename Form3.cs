@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace Project1
+namespace RestaurantManagement
 {
     public partial class Form3 : Form
     {
